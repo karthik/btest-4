@@ -7,6 +7,7 @@ library(lubridate)
 library(tidyr)
 library(ggplot2)
 library(viridis)
+library(patchwork)
 
 # Get data for the Yahara River at Windsor in Dane County, Wisconsin
 yahara_no <- '05427718'
